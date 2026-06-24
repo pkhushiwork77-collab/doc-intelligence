@@ -1,0 +1,5 @@
+[build]
+builder = "RAILPACK"
+
+[build.railpack]
+aptPackages = ["tesseract-ocr", "tesseract-ocr-eng", "poppler-utils"]
